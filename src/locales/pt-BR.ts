@@ -1,3 +1,5 @@
+import { a } from "framer-motion/client";
+
 export const ptBR = {
     header: {
         home: "Início",
@@ -24,7 +26,8 @@ export const ptBR = {
        Atualmente estou em busca de novas oportunidades, minha caixa de entrada está sempre aberta. Se você tiver alguma dúvida ou apenas quiser dizer oi, farei o possível para entrar em contato com você!! 🚀`,
         resume: "Baixar currículo",
         // href: "/pdf/Currículo - Raniery Meireles Goulart.pdf",
-        href: "https://",
+        href: "https://linkedinhttp://linkedin.com/in/andersonodev",
+        link: "https://linkedinhttp://linkedin.com/in/andersonodev",
         info: [
             { title: "2 anos", subtitle: "de experiência </br>na área" },
             { title: "20+", subtitle: "repositórios </br>no Github" },
@@ -85,7 +88,7 @@ export const ptBR = {
             medical_clinic: {
                 title: "API de<br />Clínica Médica",
                 image: "/images/projects/medical-clinic-api-with-spring.png",
-                link: "https://github.com/Ranieeery/medical-clinic-api-with-spring",
+                link: "https://github.com/andersonodev",
                 icons: ["uil", "uil-clinic-medical", "services__icon"],
                 tags: ["Java", "MySQL", "JUnit", "Spring Boot", "Swagger"],
                 modal: {
@@ -107,7 +110,7 @@ export const ptBR = {
             ia_chatbot: {
                 title: "Recomendações</br>com IA",
                 image: "/images/projects/ai.png",
-                link: "https://github.com/Ranieeery/openai-ecommerce-api-integration",
+                link: "https://github.com/andersonodev",
                 icons: ["uil", "uil-meeting-board", "services__icon"],
                 tags: ["Java", "IA", "Spring Boot", "OpenAI"],
                 modal: {
@@ -127,7 +130,7 @@ export const ptBR = {
             bytebox: {
                 title: "ByteBox</br>Chatbot",
                 image: "/images/projects/chatbot.png",
-                link: "https://github.com/Ranieeery/ecommerce-chatbot",
+                link: "https://github.com/andersonodev",
                 icons: ["uil", "uil-robot", "services__icon"],
                 tags: ["Java", "Spring Boot", "I.A.", "JavaScript"],
                 modal: {
@@ -152,7 +155,7 @@ export const ptBR = {
             vendasmvc: {
                 title: "MVC</br>Vendas C#",
                 image: "/images/projects/vendasmvc.png",
-                link: "https://github.com/Ranieeery/VendasMVC",
+                link: "https://github.com/andersonodev",
                 icons: ["uil", "uil-shopping-basket", "services__icon"],
                 tags: ["C#", ".NET", "MySQL", "ASP.NET Core MVC"],
                 modal: {
@@ -176,7 +179,7 @@ export const ptBR = {
             blog: {
                 title: "Blog</br>Pessoal",
                 image: "/images/projects/blog.png",
-                link: "https://ranieeery.github.io/",
+                link: "https://github.com/andersonodev",
                 icons: ["uil", "uil-document-layout-left", "services__icon"],
                 tags: ["Ruby", "Jekyll", "Shell", "Docker"],
                 modal: {
@@ -197,7 +200,7 @@ export const ptBR = {
             correios: {
                 title: "Busca</br>Correios",
                 image: "/images/projects/correios.png",
-                link: "https://github.com/Ranieeery/Busca-CEP",
+                link: "https://github.com/andersonodev",
                 icons: ["uil", "uil-envelope", "services__icon"],
                 tags: ["Java", "MySQL", "JUnit", "Spring Boot", "Swagger"],
                 modal: {
@@ -253,7 +256,7 @@ export const ptBR = {
             habits: {
                 title: "Rastreador<br />de Hábitos",
                 image: "/images/projects/habits.png",
-                link: "https://github.com/andersonodev/Habits-tracker",
+                link: "https://github.com/andersonodev",
                 icons: ["uil", "uil-check-square", "services__icon"],
                 tags: ["TypeScript", "React", "Node.js", "React Native"],
                 modal: {
