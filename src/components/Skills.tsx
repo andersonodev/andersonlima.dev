@@ -194,7 +194,7 @@ const createSkillsData = (texts: typeof en): SkillCategory[] => [
 
 const Skills = () => {
     const { language } = useLanguage();
-    const texts = language === "pt-BR" ? ptBR : en;
+    const texts = language === "pt-BR" ? ptBR : ptBR;
     const skillsData = createSkillsData(texts);
 
     return (

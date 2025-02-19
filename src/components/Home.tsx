@@ -7,7 +7,7 @@ import { useLanguage } from "@/contexts/LanguageContext";
 
 export default function Home() {
     const { language } = useLanguage();
-    const texts = language === "pt-BR" ? ptBR : en;
+    const texts = language === "pt-BR" ? ptBR : ptBR;
 
     const socialLinks = [
         {

@@ -12,18 +12,29 @@ export const ptBR = {
     home: {
         title: "Anderson ",
         subtitle: "Desenvolvedor Full-Stack",
-        social: "Estudante de Engenharia da Computação apaixonado por tecnologia, programação e hacking ético.",
+        social: "Computer Engineering student passionate about technology, programming and ethical hacking.",
         contact: "Contato",
         scroll: "Desça para ver mais",
     },
     about: {
         title: "Sobre mim",
         subtitle: "Introdução",
-        description: ` Desenvolvedor Full-Stack atualmente cursando Bacharelado em Engenharia de Computação. Sou movido pelo desafio de criar, inovar e resolver problemas complexos através da tecnologia. Além disso, tenho um forte interesse por cibersegurança, explorando técnicas para proteger sistemas contra ameaças e ataques.
+        description: ` 🚀 Full-Stack Developer | Computer Engineering | Software Development & Cybersecurity Enthusiast
 
-       🔎 Sou Curioso e autodidata, estou sempre atualizado com as tendências e novas tecnologias do mercado, buscando aprimorar minhas habilidades em desenvolvimento e arquitetura de software.
+I am a highly motivated Full-Stack Developer and Computer Engineering student with a passion for building scalable, high-performance, and secure applications. I thrive on solving complex problems and continuously seek innovative ways to optimize software architecture, enhance security, and improve user experiences.
 
-       Atualmente estou em busca de novas oportunidades, minha caixa de entrada está sempre aberta. Se você tiver alguma dúvida ou apenas quiser dizer oi, farei o possível para entrar em contato com você!! 🚀`,
+🔎 Core Skills & Expertise:
+✔ Front-end Development: JavaScript (React)
+✔ Back-end Development: Python (Django), Node.js
+✔ Programming Languages: Python, Java, JavaScript
+✔ Data Analysis & Processing: Pandas, data manipulation & visualization
+✔ Cybersecurity: Application security, vulnerability testing, best security practices
+✔ DevOps & Tools: Git, GitHub, Terminal Shell
+✔ Quality Assurance: Application testing, performance optimization
+
+As a curious and self-driven technologist, I am constantly learning and adapting to new trends, ensuring that I stay ahead in the ever-evolving tech landscape. I am particularly passionate about cybersecurity, focusing on securing systems against threats and vulnerabilities.
+
+I am actively seeking new opportunities to apply my expertise and contribute to cutting-edge projects. If you’re looking for a dedicated, problem-solving professional with a growth mindset, let’s connect! 🚀`,
         resume: "Baixar currículo",
         // href: "/pdf/Currículo - Raniery Meireles Goulart.pdf",
         href: "https://linkedinhttp://linkedin.com/in/andersonodev",

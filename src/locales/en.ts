@@ -8,8 +8,8 @@ export const en = {
         language: "Language",
     },
     home: {
-        title: "Raniery Goulart",
-        subtitle: "Fullstack Developer",
+        title: "Anderson",
+        subtitle: "Full-Stack Developer",
         social: "Computer Science student with a passion for technology and programming",
         contact: "Contact me",
         scroll: "Scroll to see more",

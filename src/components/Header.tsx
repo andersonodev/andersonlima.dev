@@ -13,7 +13,7 @@ export default function Header() {
     const [isLangMenuOpen, setIsLangMenuOpen] = useState(false);
     const { language, setLanguage } = useLanguage();
 
-    const texts = language === "pt-BR" ? ptBR : en;
+    const texts = language === "pt-BR" ? ptBR : ptBR;
 
     const menuItems = [
         { href: "#home", icon: "uil-estate", text: texts.header.home },

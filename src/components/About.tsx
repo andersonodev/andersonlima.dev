@@ -7,9 +7,10 @@ import { useLanguage } from "@/contexts/LanguageContext";
 
 export default function About() {
     const { language } = useLanguage();
-    const texts = language === "pt-BR" ? ptBR : en;
+    const texts = language === "pt-BR" ? ptBR : ptBR;
 
     return (
+
         <section className="about section" id="about">
             <h2 className="section__title">{texts.about.title}</h2>
             <span className="section__subtitle">{texts.about.subtitle}</span>
