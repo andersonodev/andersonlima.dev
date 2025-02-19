@@ -89,7 +89,7 @@ export const en = {
             medical_clinic: {
                 title: "Medical<br />Clinic API",
                 image: "/images/projects/medical-clinic-api-with-spring.png",
-                link: "https://github.com/Ranieeery/medical-clinic-api-with-spring",
+                link: "https://github.com/andersonodev/medical-clinic-api-with-spring",
                 icons: ["uil", "uil-clinic-medical", "services__icon"],
                 tags: ["Java", "MySQL", "JUnit", "Spring Boot", "Swagger"],
                 modal: {
@@ -111,7 +111,7 @@ export const en = {
             ia_chatbot: {
                 title: "AI </br> Recommendation",
                 image: "/images/projects/ai.png",
-                link: "https://github.com/Ranieeery/openai-ecommerce-api-integration",
+                link: "https://github.com/andersonodev/openai-ecommerce-api-integration",
                 icons: ["uil", "uil-meeting-board", "services__icon"],
                 tags: ["Java", "IA", "Spring Boot", "OpenAI"],
                 modal: {
@@ -131,7 +131,7 @@ export const en = {
             bytebox: {
                 title: "ByteBox<br />Chatbot",
                 image: "/images/projects/chatbot.png",
-                link: "https://github.com/Ranieeery/ecommerce-chatbot",
+                link: "https://github.com/andersonodev/ecommerce-chatbot",
                 icons: ["uil", "uil-robot", "services__icon"],
                 tags: ["Java", "Spring Boot", "I.A.", "JavaScript"],
                 modal: {
@@ -156,7 +156,7 @@ export const en = {
             vendasmvc: {
                 title: "MVC<br />Sales C#",
                 image: "/images/projects/vendasmvc.png",
-                link: "https://github.com/Ranieeery/VendasMVC",
+                link: "https://github.com/andersonodev/VendasMVC",
                 icons: ["uil", "uil-shopping-basket", "services__icon"],
                 tags: ["C#", ".NET", "MySQL", "ASP.NET Core MVC"],
                 modal: {
@@ -180,7 +180,7 @@ export const en = {
             blog: {
                 title: "Personal</br>Blog",
                 image: "/images/projects/blog.png",
-                link: "https://ranieeery.github.io/",
+                link: "https://andersonlima.dev",
                 icons: ["uil", "uil-document-layout-left", "services__icon"],
                 tags: ["Ruby", "Jekyll", "Shell", "Docker"],
                 modal: {
@@ -201,7 +201,7 @@ export const en = {
             correios: {
                 title: "Search<br />Correios",
                 image: "/images/projects/correios.png",
-                link: "https://github.com/Ranieeery/Busca-CEP",
+                link: "https://github.com/andersonodev/Busca-CEP",
                 icons: ["uil", "uil-envelope", "services__icon"],
                 tags: ["Java", "MySQL", "JUnit", "Spring Boot", "Swagger"],
                 modal: {
@@ -234,7 +234,7 @@ export const en = {
             portfolio: {
                 title: "Portfolio",
                 image: "/images/projects/portfolio.png",
-                link: "https://github.com/Ranieeery/raniery.dev",
+                link: "https://github.com/andersonodev/andersonlima.dev",
                 icons: ["uil", "uil-user", "services__icon"],
                 tags: ["TypeScript", "Next.js", "React", "Node.js"],
                 modal: {
@@ -256,7 +256,7 @@ export const en = {
             habits: {
                 title: "Habits<br />Tracker",
                 image: "/images/projects/habits.png",
-                link: "https://github.com/Ranieeery/Habits-tracker",
+                link: "https://github.com/andersonodev/Habits-tracker",
                 icons: ["uil", "uil-check-square", "services__icon"],
                 tags: ["TypeScript", "React", "Node.js", "React Native"],
                 modal: {
@@ -297,14 +297,14 @@ export const en = {
         subtitle: "Contact me for a chat",
         link: "Send a mail",
         info: [
-            { title: "Phone", subtitle: "+55 (31) 9 9197-4503" },
-            { title: "E-mail", subtitle: "raniery2003@hotmail.com" },
-            { title: "Location", subtitle: "Contagem - MG (Brazil)" },
+            { title: "Phone", subtitle: "+55 (21) 9 99123-2216" },
+            { title: "E-mail", subtitle: "andersonodev@gmail.com" },
+            { title: "Location", subtitle: "Recreio dos Bandeirantes - RJ (Brazil)" },
         ],
     },
     footer: {
-        title: "Raniery",
-        subtitle: "Fullstack Developer",
+        title: "Anderson",
+        subtitle: "Full-Stack Developer",
         note: `Raniery. All rights reserved. ${new Date().getFullYear()}`,
         home: "Home",
         about: "About",
