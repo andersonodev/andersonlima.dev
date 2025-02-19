@@ -15,7 +15,7 @@ export default function Portfolio() {
     const [activeModal, setActiveModal] = useState<number | null>(null);
 
     const { language } = useLanguage();
-    const texts = language === "pt-BR" ? ptBR : ptBR;
+    const texts = language === "pt-BR" ? ptBR : en;
 
     return (
         <section className="services section" id="portfolio">

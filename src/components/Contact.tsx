@@ -13,7 +13,7 @@ interface ContactInfo {
 
 export default function Contact() {
     const { language } = useLanguage();
-    const texts = language === "pt-BR" ? ptBR : ptBR;
+    const texts = language === "pt-BR" ? ptBR : en;
 
     const contactInfos: ContactInfo[] = [
         {

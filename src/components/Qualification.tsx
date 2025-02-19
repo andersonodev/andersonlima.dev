@@ -81,7 +81,7 @@ const QualificationData = ({ items }: { items: QualificationItem[] }) => (
 export default function Qualification() {
     const [activeTab, setActiveTab] = useState("education");
     const { language } = useLanguage();
-    const texts = language === "pt-BR" ? ptBR : ptBR;
+    const texts = language === "pt-BR" ? ptBR : en;
 
     const educationItems = [
         {

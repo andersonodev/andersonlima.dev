@@ -16,7 +16,7 @@ interface SocialLink {
 
 export default function Footer() {
     const { language } = useLanguage();
-    const texts = language === "pt-BR" ? ptBR : ptBR;
+    const texts = language === "pt-BR" ? ptBR : en;
 
     const footerLinks: FooterLink[] = [
         { href: "#home", text: texts.header.home },

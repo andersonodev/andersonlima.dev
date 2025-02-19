@@ -7,7 +7,7 @@ import { useLanguage } from "@/contexts/LanguageContext";
 
 export default function About() {
     const { language } = useLanguage();
-    const texts = language === "pt-BR" ? ptBR : ptBR;
+    const texts = language === "pt-BR" ? ptBR : en;
 
     return (
 
