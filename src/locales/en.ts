@@ -17,12 +17,11 @@ export const en = {
     about: {
         title: "About me",
         subtitle: "Introduction",
-        description: `Fullstack developer with experience creating
-                REST APIs, integration with front-end pages, relational
-                databases and unit tests, security and cloud with AWS 
-                certificates. Bachelor's degree student in Computer 
-                Science at Uniamérica and graduated in Electro-electronics
-                at CEFET-MG`,
+        description: `Full-Stack Developer currently studying a Bachelor's degree in Computer Engineering. I am driven by the challenge of creating, innovating and solving complex problems through technology. Additionally, I have a strong interest in cybersecurity, exploring techniques to protect systems against threats and attacks.
+
+       🔎 I'm curious and self-taught, I'm always up to date with trends and new technologies on the market, seeking to improve my skills in software development and architecture.
+
+       I'm currently looking for new opportunities, my inbox is always open. If you have any questions or just want to say hi, I'll do my best to get in touch!!`,
         resume: "Download resume",
         href: "/pdf/Resume - Raniery Meireles Goulart.pdf",
         info: [
