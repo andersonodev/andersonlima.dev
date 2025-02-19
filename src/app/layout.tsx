@@ -4,6 +4,8 @@ import { Poppins } from "next/font/google";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import { LanguageProvider } from "@/contexts/LanguageContext";
 import "@/styles/globals.min.css";
+export const dynamic = "force-dynamic";
+
 
 const poppins = Poppins({
     subsets: ["latin"],

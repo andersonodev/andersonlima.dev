@@ -7,6 +7,8 @@ import Portfolio from "@/components/Portfolio";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
 import ScrollToTop from "@/components/ScrollToTop";
+export const dynamic = "force-dynamic";
+
 
 export default function Page() {
     return (
